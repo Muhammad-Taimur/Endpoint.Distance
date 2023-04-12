@@ -14,7 +14,7 @@ namespace Endpoint.Distance.Controllers
         }
 
         [HttpPost]
-        [Route("measure/distance")]
+        [Route("api/measuredistance")]
         public async Task<ActionResult> CalculateDistance([FromBody] TwoCitiesCordinates twoCitiesCordinates)
         {
             var distance =_calculateDistanceService.CalculateDistance(twoCitiesCordinates);

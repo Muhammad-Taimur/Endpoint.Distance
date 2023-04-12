@@ -40,6 +40,5 @@ namespace Endpoint.Distance.UnitTest.Controllers
             response.Should().BeOfType<OkObjectResult>();
             response.Value.Should().Be($"{result} km");
         }
-
     }
 }

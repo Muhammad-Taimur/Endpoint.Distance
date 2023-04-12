@@ -117,3 +117,4 @@ C:\Users\mohammad.taimur\Personal\Roomex Test\Endpoint.Distance.UnitTest\obj\Deb
 C:\Users\mohammad.taimur\Personal\Roomex Test\Endpoint.Distance.UnitTest\obj\Debug\net6.0\Endpoint.Distance.UnitTest.pdb
 C:\Users\mohammad.taimur\Personal\Roomex Test\Endpoint.Distance.UnitTest\obj\Debug\net6.0\Endpoint.Distance.UnitTest.genruntimeconfig.cache
 C:\Users\mohammad.taimur\Personal\Roomex Test\Endpoint.Distance.UnitTest\obj\Debug\net6.0\ref\Endpoint.Distance.UnitTest.dll
+C:\Users\mohammad.taimur\Personal\Roomex Test\Endpoint.Distance.UnitTest\bin\Debug\net6.0\Properties\launchSettings.json

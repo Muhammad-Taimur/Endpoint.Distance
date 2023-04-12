@@ -30,3 +30,4 @@ C:\Users\mohammad.taimur\Personal\Roomex Test\Endpoint.Distance\obj\Debug\net6.0
 C:\Users\mohammad.taimur\Personal\Roomex Test\Endpoint.Distance\obj\Debug\net6.0\Endpoint.Distance.pdb
 C:\Users\mohammad.taimur\Personal\Roomex Test\Endpoint.Distance\obj\Debug\net6.0\Endpoint.Distance.genruntimeconfig.cache
 C:\Users\mohammad.taimur\Personal\Roomex Test\Endpoint.Distance\obj\Debug\net6.0\ref\Endpoint.Distance.dll
+C:\Users\mohammad.taimur\Personal\Roomex Test\Endpoint.Distance\bin\Debug\net6.0\Properties\launchSettings.json
